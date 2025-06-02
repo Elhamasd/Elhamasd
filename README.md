@@ -1,4 +1,4 @@
-#👋 Hi, I'm Elly
+👋 Hi, I'm Elly
 
 I’m a Linux server administrator currently transitioning into a DevOps career. I’m passionate about automation, infrastructure-as-code, and building reliable CI/CD pipelines.
 
